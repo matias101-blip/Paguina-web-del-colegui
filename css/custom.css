@@ -1,0 +1,56 @@
+
+#img-hero{
+    text-align: center;
+}
+
+#Text-hero, .text4{
+    text-align: center;
+}
+
+#escrito1{
+    text-align:center;
+}
+
+.imagen1, .imagen2{
+    border-radius: 8px;
+    width: 400px;
+    height: 310px;
+}
+
+.imagen1{
+    border: dotted blue 2px;
+}
+
+.imagen2{
+    border: dotted red 2px;
+}
+
+.imagen3{
+    border-radius: 8px;
+    width: 380px;
+    height: 310px;
+}
+
+.imagen4{
+    width: 440px;
+}
+
+.imagen8{
+    border-radius: 100%;
+    width: 128px;
+}
+
+.img-media{
+    width: 280px;
+    height: 190px;
+}
+
+.footer {
+    width: 60%;
+    color: rgb(51, 51, 51);
+    bottom: 0px;
+    right: 240px;
+    position: fixed;
+    text-align: center;
+    font-size: 35px;
+  }
